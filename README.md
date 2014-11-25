@@ -3,6 +3,8 @@ moveTo.js
 
 Is JQuery plugin based on jQuery-animate_from_to. The difference is that now he really brings your object from one place to another.
 
+It works according to the principle "Where to get? Where to put?"
+
 Quickstart
 ==========
 
