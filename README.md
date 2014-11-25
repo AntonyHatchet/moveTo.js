@@ -18,31 +18,7 @@ Arguments and construction:
 Basic, bare bones example with real arguments:
 
 	$("#area-1").moveTo("#area-2");
-Example
--------
-
- <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
-    <script src="moveTo.js"></script>
-    <script>
-        $(document).ready(function(){
-            $("#button1").click(function(){
-                $('#prod_123').moveTo('#cart');
-            });
-        });
-    </script>
-
-    <span id="cart">
-        My shopping cart
-    </span>
-
-
-    <div id="prod_123" style="height: 100px; width:300px; margin-top: 100px; background: pink">
-        <form onsubmit="return false;">
-            <button type="submit" id="button1">Add to cart</button>
-        </form>
-    </div>
     
-    Customization
 ------------
 
 Slow the speed of the animation:
