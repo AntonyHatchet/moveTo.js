@@ -1,6 +1,6 @@
 moveTo.js
 ======
-The main functionality is animated moving from one object to another.
+
 Is JQuery plugin based on jQuery-animate_from_to. The difference is that now he really brings your object from one place to another.
 
 The main functionality moveTo.js is animated moving from one object to another. It works according to the principle "Where to get? Where to put?"
