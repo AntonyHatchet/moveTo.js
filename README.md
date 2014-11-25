@@ -5,8 +5,6 @@ Is JQuery plugin based on jQuery-animate_from_to. The difference is that now he 
 
 It works according to the principle "Where to get? Where to put?"
 
-Quickstart
-==========
 
 Usage
 ------
